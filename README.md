@@ -1,4 +1,4 @@
-#Goal: TO find patterns in the transactions data that would help take business insights.
+Goal: To find patterns in the transactions data that would help take business insights.
 
 Description: This dataset consists of two tables which it has 20,000 customers profile and 15,000 transactions registered related to an E-commerce business.
 
